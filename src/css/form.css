@@ -62,7 +62,7 @@ textarea {
     border: 1px solid #000;
 }
 
-.form-btn {
+.form-button {
     align-content: baseline;
     border-radius: 8px;
     padding: 8px 16px;
@@ -78,8 +78,8 @@ textarea {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.form-btn:hover,
-.form-btn:hover {
+.form-button:hover,
+.form-button:hover {
     background-color: #6c8cff; }
 
 ::placeholder {
